@@ -94,3 +94,5 @@ python dos_sumcolumns.py
 # file with 2 columns: E0 and s-total
 python dos_pdos_per_element.py
 
+# Plot the density of states
+python pdos_noncollinear_plot.py
